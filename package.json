@@ -40,6 +40,7 @@
     "flow-copy-source": "^2.0.2",
     "husky": "^1.0.1",
     "jest": "^23.0.1",
+    "react-redux": "^5.0.0",
     "redux": "^4.0.1",
     "redux-thunk": "^2.3.0",
     "ts-jest": "^22.4.2",
@@ -52,12 +53,12 @@
     "hoist-non-react-statics": "^2.3.1",
     "normalizr": "^3.2.4",
     "react": "^15.0.0 || ^16.0.0",
-    "react-redux": "^5.0.0",
     "redux-mock-store": "^1.5.3",
     "shallowequal": "^1.0.2"
   },
   "PeerDependencies": {
     "normalizr": "^3.0.0",
+    "react-redux": ">= 5.0.0",
     "redux-thunk": "^2.0.0"
   },
   "jest": {
